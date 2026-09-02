@@ -72,7 +72,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/teyteymey/portfolio/blob/main/src/assets/CVProfesional-TatianaMeyer.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/teyteymey/portfolio/blob/main/src/assets/Tatiana_Meyer_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
